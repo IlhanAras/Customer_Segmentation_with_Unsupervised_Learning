@@ -1,5 +1,5 @@
 # Customer_Segmentation_with_Unsupervised_Learning
-## Table of Context
+## Project Stages
 ### 
 - Business Problem
 
